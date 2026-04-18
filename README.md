@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Umma Morium Sathi 👋
 
-<!--
-**Jsank-Jvsalk/jsank-jvsalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student from Bangladesh focused on red teaming and penetration testing.
 
-Here are some ideas to get you started:
+## 🔐 Skills
+- Web Application Security (OWASP Top 10)
+- Network Scanning (Nmap, Wireshark)
+- Exploitation Basics (Metasploit, Burp Suite)
+- Automation (Python, Bash)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Current Work
+- Building a home lab for attack & defense simulations
+- Developing Bash-based automation pipelines for reconnaissance
+- Practicing CTF challenges (PicoCTF, TryHackMe, OverTheWire)
+
+## 🎯 Goal
+To develop strong practical skills in offensive security and contribute to real-world cybersecurity research.
